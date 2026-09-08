@@ -11,3 +11,4 @@ public class App {
         System.out.println(login("admin", "1234"));
     }
 }
+System.out.println("CI Pipeline Test Successful");
